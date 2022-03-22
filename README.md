@@ -11,3 +11,6 @@ These is a colection of some mini html games that you can play, to play theme yo
 ### Español
 
 Esta es una colección de algunos mini juegos HTML que puedes jugar, para jugar tema tienes que extraer cada juego y hacer clic en el índice.html archivo para jugar tema
+
+para los tontos de clase teneis que extraer los la carpeta y ir a Unciped -> ¨ Juego ¨ -> y index file
+
