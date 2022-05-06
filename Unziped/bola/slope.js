@@ -186,7 +186,7 @@ var UnityLoader = UnityLoader || {
                 }, printErr: function (e) {
                     console.error(e)
                 }, Jobs: {}, buildDownloadProgress: {}, resolveBuildUrl: function (e) {
-                    var base_path = "/slope.json";
+                    var base_path = "slope.json";
                     console.log(e.match(/(http|https|ftp|file):\/\//) ? e : base_path.substring(0, base_path.lastIndexOf("/") + 1) + e);
                     return e.match(/(http|https|ftp|file):\/\//) ? e : base_path.substring(0, base_path.lastIndexOf("/") + 1) + e
                 }
