@@ -1,16 +1,15 @@
 # Mini-games
-These are asets that i got from github i did not make all of theme im still working on ading the names of the creators with the necesary recognociment
+These are assets that I got from Github I did not make any of them I'm still working on adding the names of the creators with the necessary recognociment
 
-I dont want any reconicement for these games i just did these to be able to share theme with my friends on school  computers
+I don't want any reconcilement for these games I just did these to be able to share them with my friends on school  computers since they do not have any computer knowledge and do not space updates except adding new games that i faind
 
 
 ### English
 
-These is a colection of some mini html games that you can play, to play theme you have to extract each game and click the index.html file to play theme 
+This is a collection of some mini HTML games that you can play, to play them you have to extract each game and click the index.html file to play the theme 
 
 ### Español
 
 Esta es una colección de algunos mini juegos HTML que puedes jugar, para jugar tema tienes que extraer cada juego y hacer clic en el índice.html archivo para jugar tema
 
-para los tontos de clase teneis que extraer los la carpeta y ir a Unciped -> ¨ Juego ¨ -> y index file
 
